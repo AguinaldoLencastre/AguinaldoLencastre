@@ -1,6 +1,5 @@
 
 
-Analisa esse que fiz 
 
 
 agenda_telefonica = {}
